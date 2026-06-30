@@ -214,7 +214,3 @@ This project strengthened understanding of:
 - Machine Learning Pipeline
 
 ---
-
----
-
-## ⭐ If you like this project, don't forget to Star the Repository!
